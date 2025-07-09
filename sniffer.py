@@ -1,4 +1,4 @@
-from scapy.all import sniff, IP, ICMP, TCP, UDP, Raw
+from scapy.all import sniff, IP
 from colorama import init, Fore
 import datetime
 
